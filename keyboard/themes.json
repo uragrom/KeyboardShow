@@ -1,0 +1,91 @@
+{
+  "cyberpunk": {
+    "name": "Киберпанк (по умолчанию)",
+    "colors": {
+      "key_bg": "#30202030",
+      "key_border": "#60ffffff",
+      "key_text": "#ffffff",
+      "key_pressed": "#00d4ff",
+      "key_pressed_text": "#ffffff",
+      "key_pressed_border": "#00ffff"
+    }
+  },
+  "matrix": {
+    "name": "Матрица",
+    "colors": {
+      "key_bg": "#20001a00",
+      "key_border": "#60ff00",
+      "key_text": "#00ff00",
+      "key_pressed": "#00ff00",
+      "key_pressed_text": "#000000",
+      "key_pressed_border": "#00ff00"
+    }
+  },
+  "sunset": {
+    "name": "Закат",
+    "colors": {
+      "key_bg": "#30300020",
+      "key_border": "#80ff6b35",
+      "key_text": "#ffb347",
+      "key_pressed": "#ff1493",
+      "key_pressed_text": "#ffffff",
+      "key_pressed_border": "#ff69b4"
+    }
+  },
+  "minimal": {
+    "name": "Минимализм",
+    "colors": {
+      "key_bg": "#00000000",
+      "key_border": "#80ffffff",
+      "key_text": "#ffffff",
+      "key_pressed": "#ffffff",
+      "key_pressed_text": "#000000",
+      "key_pressed_border": "#ffffff"
+    }
+  },
+  "purple": {
+    "name": "Фиолетовый",
+    "colors": {
+      "key_bg": "#30200030",
+      "key_border": "#80a020f0",
+      "key_text": "#d8b4fe",
+      "key_pressed": "#a020f0",
+      "key_pressed_text": "#ffffff",
+      "key_pressed_border": "#e0b0ff"
+    }
+  },
+  "fire": {
+    "name": "Огонь",
+    "colors": {
+      "key_bg": "#30200000",
+      "key_border": "#80ff4500",
+      "key_text": "#ffa500",
+      "key_pressed": "#ff0000",
+      "key_pressed_text": "#ffffff",
+      "key_pressed_border": "#ff6600"
+    }
+  },
+  "ocean": {
+    "name": "Океан",
+    "colors": {
+      "key_bg": "#30001030",
+      "key_border": "#8000bfff",
+      "key_text": "#87ceeb",
+      "key_pressed": "#0080ff",
+      "key_pressed_text": "#ffffff",
+      "key_pressed_border": "#00bfff"
+    }
+  },
+  "gaming": {
+    "name": "Игровая",
+    "colors": {
+      "key_bg": "#40100010",
+      "key_border": "#a0ff00ff",
+      "key_text": "#00ff00",
+      "key_pressed": "#ff00ff",
+      "key_pressed_text": "#ffffff",
+      "key_pressed_border": "#ff00ff"
+    }
+  }
+}
+

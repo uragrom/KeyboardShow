@@ -1,0 +1,20 @@
+{
+  "position": "bottom",
+  "scale": 0.5,
+  "width": 1400,
+  "height": 300,
+  "colors": {
+    "bg": "#00000000",
+    "key_bg": "#30202030",
+    "key_border": "#60ffffff",
+    "key_text": "#ffffff",
+    "key_pressed": "#00d4ff",
+    "key_pressed_text": "#ffffff",
+    "key_pressed_border": "#00ffff"
+  },
+  "idle_timeout": 5.0,
+  "fade_duration": 2.0,
+  "key_fade_duration": 0.8,
+  "default_layout": "qwerty"
+}
+
