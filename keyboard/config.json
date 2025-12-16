@@ -1,8 +1,17 @@
 {
   "position": "bottom",
-  "scale": 0.5,
+  "scale": 0.523125,
   "width": 1400,
   "height": 300,
+  "max_alpha": 0.7995926680244401,
+  "min_alpha": 0.3,
+  "visible_rows": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "tray_icon_path": "tray.ico",
   "colors": {
     "bg": "#00000000",
     "key_bg": "#30202030",
@@ -12,9 +21,17 @@
     "key_pressed_text": "#ffffff",
     "key_pressed_border": "#00ffff"
   },
-  "idle_timeout": 5.0,
+  "idle_timeout": 3.0,
   "fade_duration": 2.0,
   "key_fade_duration": 0.8,
-  "default_layout": "qwerty"
+  "default_layout": "qwerty",
+  "custom_x": null,
+  "custom_y": null,
+  "disabled_keys": {},
+  "key_style": "flat",
+  "border_radius": 8,
+  "shadow_size": 3,
+  "glow_intensity": 1.0,
+  "border_width": 2,
+  "key_padding": 6
 }
-
